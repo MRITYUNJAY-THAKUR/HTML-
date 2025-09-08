@@ -21,16 +21,7 @@ Semantic tags (header, footer, section, etc.)
 
 Some random experiments I did while practicing 😅
 
-🚀 How to Check
 
-Clone this repo:
-
-git clone https://github.com/your-username/html-notes.git
-
-
-Open any .html file in your browser.
-
-That’s it – you’ll see what I was practicing.
 
 🎯 Why I Made This
 
